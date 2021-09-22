@@ -1,0 +1,59 @@
+C:\Study\C#\Практика24 App\Практика24 App\bin\Debug\Практика24 App.exe.config
+C:\Study\C#\Практика24 App\Практика24 App\bin\Debug\Практика24 App.exe
+C:\Study\C#\Практика24 App\Практика24 App\bin\Debug\Практика24 App.pdb
+C:\Study\C#\Практика24 App\Практика24 App\obj\Debug\Практика24 App.csprojAssemblyReference.cache
+C:\Study\C#\Практика24 App\Практика24 App\obj\Debug\Практика24_App.Properties.Resources.resources
+C:\Study\C#\Практика24 App\Практика24 App\obj\Debug\Практика24 App.csproj.GenerateResource.cache
+C:\Study\C#\Практика24 App\Практика24 App\obj\Debug\Практика24 App.csproj.CoreCompileInputs.cache
+C:\Study\C#\Практика24 App\Практика24 App\obj\Debug\Практика24 App.exe
+C:\Study\C#\Практика24 App\Практика24 App\obj\Debug\Практика24 App.pdb
+C:\Study\C#\Практика24 App\Практика24 App\obj\Debug\Практика24_App.Form_main.resources
+C:\Study\C#\Практика24 App\Практика24 App\obj\Debug\Практика24_App.FormAddDoctor.resources
+C:\Study\C#\Практика24 App\Практика24 App\obj\Debug\Практика24_App.FormAddPatient.resources
+C:\Study\C#\Практика24 App\Практика24 App\obj\Debug\Практика24_App.FormPatientDialog.resources
+C:\Study\C#\Практика24 App\Практика24 App\obj\Debug\Практика24_App.FormAppointment.resources
+C:\Study\C#\Практика24 App\Практика24 App\obj\Debug\Практика24_App.FormDoctorDialog.resources
+C:\Study\C#\Практика24 AppDB\Практика24 App\bin\Debug\Практика24 App.exe.config
+C:\Study\C#\Практика24 AppDB\Практика24 App\bin\Debug\Практика24 App.exe
+C:\Study\C#\Практика24 AppDB\Практика24 App\bin\Debug\Практика24 App.pdb
+C:\Study\C#\Практика24 AppDB\Практика24 App\bin\Debug\EntityFramework.dll
+C:\Study\C#\Практика24 AppDB\Практика24 App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Study\C#\Практика24 AppDB\Практика24 App\bin\Debug\EntityFramework.xml
+C:\Study\C#\Практика24 AppDB\Практика24 App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24 App.csprojAssemblyReference.cache
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.FormAddDoctor.resources
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.FormAddPatient.resources
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.FormAppointment.resources
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.FormDoctorDialog.resources
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.FormPatientDialog.resources
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.Form_main.resources
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.Properties.Resources.resources
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24 App.csproj.GenerateResource.cache
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24 App.csproj.CoreCompileInputs.cache
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24 App.csproj.CopyComplete
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24 App.exe
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24 App.pdb
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.Migrations.AddCompanyMigration.resources
+C:\Study\C#\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.Migrations.AddCompanyMigration2.resources
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\bin\Debug\Практика24 App.exe.config
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\bin\Debug\Практика24 App.exe
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\bin\Debug\Практика24 App.pdb
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\bin\Debug\EntityFramework.dll
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\bin\Debug\EntityFramework.xml
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24 App.csproj.AssemblyReference.cache
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.FormAddDoctor.resources
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.FormAddPatient.resources
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.FormAppointment.resources
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.FormDoctorDialog.resources
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.FormPatientDialog.resources
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.Form_main.resources
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.Migrations.AddCompanyMigration.resources
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.Migrations.AddCompanyMigration2.resources
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24_App.Properties.Resources.resources
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24 App.csproj.GenerateResource.cache
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24 App.csproj.CoreCompileInputs.cache
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24 App.csproj.CopyComplete
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24 App.exe
+C:\Users\janik\Desktop\Практика24 AppDB\Практика24 App\obj\Debug\Практика24 App.pdb
